@@ -4,7 +4,7 @@ Limpeza e análise de dados referente ao perfil do eleitorado e aos votos no est
 <p align="center">
   <img src="tse-logo.png" >
 </p>
-<sub>*Arquivos fornecidos pelo TSE*</sub>
+<sub>Arquivos fornecidos pelo TSE</sub>
 
 ## Arquivos brutos:
 
