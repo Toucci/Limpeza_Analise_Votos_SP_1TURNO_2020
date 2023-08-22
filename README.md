@@ -1,8 +1,10 @@
 # Limpeza e análise dos votos para prefeitura nos municípios do estado de São Paulo. 
 Limpeza e análise de dados referente ao perfil do eleitorado e aos votos no estado de São Paulo, no 1ºTurno de 2020.
 
-
-
+<p align="center">
+  <img src="tse-logo.png" >
+</p>
+<sub>*Arquivos fornecidos pelo TSE*</sub>
 
 ## Arquivos brutos:
 
